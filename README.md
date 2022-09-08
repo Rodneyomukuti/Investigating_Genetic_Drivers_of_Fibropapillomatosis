@@ -1,2 +1,6 @@
 # Investigating_Genetic_Drivers_of_Fibropapillomatosis
 Sequence data analysis
+
+### A brief Introduction
+
+Sea turtles have been termed as sentinels of a healthy marine ecosystem. They play a major role in various marine ecosystems including coral reefs and sea grasses. However, their global population has drastically decreased over the past few years making them to be on the verge of extinction. This reduction in numbers is due to poaching, predation, and diseases such as fibropapillomatosis (FP). FP is a tumor-causing disease whose incidence is associated with anthropogenic impacts on the turtles foraging areas. Its etiolgic agent has not been fully unravelled, but studies have shown a close association between the disease and a virus called chelonid alpha herpes virus 5. Besides being ultimately fatal, FP tumor masses interfere with movement and compromise the ability to feed leaving the turtle more vulnerable to risks of bycatch and predation. Of the turtle species green sea turtles (Chelonia mydas) are the most affected by the disease. In Kenya for instance, it is reported that nearly all green sea turtles unintentionally caught by fishers have tumors. The reasons for this are not known which raises the need to understand the immunity of green sea turtles on the one hand and the virulence of the causative virus on the other.
